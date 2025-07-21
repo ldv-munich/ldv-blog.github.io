@@ -1,0 +1,4 @@
+baseURL = "https://ldv-munich.github.io/ldv-blog.github.io/"
+languageCode = "en-us"
+title = "LDV Blog"
+theme = "book"
