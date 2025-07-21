@@ -1,4 +1,4 @@
-module book
+module github.com/ldv-munich/ldv-blog.github.io
 
 go 1.24.5
 
