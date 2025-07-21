@@ -1,7 +1,6 @@
 baseURL: "https://ldv-munich.github.io/ldv-blog.github.io/"
 languageCode: it-it
 title: Leonardo Da Vinci Blog
-theme: book
 
 module:
   imports:
